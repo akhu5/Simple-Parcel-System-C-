@@ -1,0 +1,24 @@
+
+****************************************************************************
+*									   *
+* 				HELLO ALL!				   *
+* 		Welcome to the world of Computer Science	 	   *
+*									   *
+* This is a project made by Debabrata and Akhil under the sole 		   *
+* guidance of our Computer Science teacher Mr. Honey Mehta.		   *
+*									   *
+* This is a project on the Courier and Mail services in which you can keep * 
+* track of sending/receiving a parcel or a mail to your near and dear ones.*  
+*									   *
+* All you have to do is to give us the relevant information and sit back.  *
+* Your job will be done in no time. :)					   *
+*									   *
+* 			Hope you like our try. 		  		   *
+*  									   *
+*									   *
+*  Thanks!								   *
+*  AKHIL AND DEBABRATA							   *
+*									   *
+****************************************************************************
+
+Press any key and then hit Enter to continue...
